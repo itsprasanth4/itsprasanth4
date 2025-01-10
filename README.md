@@ -19,7 +19,7 @@ As working on various Cloud services and DevOps Tools, I specialize in automatin
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Hat_logo.svg" alt="Red Hat" title="Red Hat" width="40" height="40"/>
         <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" title="Ubuntu" width="40" height="40"/>
         <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="CentOS" title="CentOS" width="40" height="40"/> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasanth624&show_icons=true&hide=stars,issues" alt="prasanth624" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsprasanth4&show_icons=true&hide=stars,issues" alt="itsprasanth4" /></p>
 
 #### 🤝 Let's Connect!
 Follow my projects here on GitHub. I'm always open to discussing new ideas, technologies, or collaboration opportunities!
